@@ -64,5 +64,5 @@ This project is licensed under the **MIT License**.
 Feel free to contribute! Open an **issue** or submit a **pull request**.
 
 ## 📬 Contact
-For any queries, reach out via **[LinkedIn](https://www.linkedin.com/in/your-profile)** or **[GitHub](https://github.com/0Xuser100/)**.
+For any queries, reach out via **[LinkedIn](https://www.linkedin.com/in/mahmoud-abdulhamid-052244230/)** or **[GitHub](https://github.com/0Xuser100/)**.
 
